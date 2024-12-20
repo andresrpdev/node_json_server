@@ -1,0 +1,14 @@
+{
+  "name": "json-server",
+  "version": "0.0.1",
+  "description": "Armando servidor con informacion de cursos",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Andres Romanutti",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
